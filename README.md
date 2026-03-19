@@ -1,12 +1,12 @@
-# ✈️ Airline Booking System
+#  Airline Booking System
 
 A full-stack Airline Booking System built using modern web technologies. This application allows users to search for flights, book tickets, select seats, and manage their bookings, while providing administrative tools for managing flight data.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 👤 User Features
+###  User Features
 
 * User Registration and Login
 * Flight Search and Filtering
@@ -16,14 +16,14 @@ A full-stack Airline Booking System built using modern web technologies. This ap
 * View Booking History
 * Secure Payment Integration
 
-### 🛠️ Admin Features
+###  Admin Features
 
 * Create, Read, Update, Delete (CRUD) Flights
 * Manage flight availability and schedules
 
 ---
 
-## 🧠 Advanced Features (Planned / Optional)
+##  Advanced Features (Planned / Optional)
 
 * Smart flight recommendations
 * Booking countdown timer
@@ -33,7 +33,7 @@ A full-stack Airline Booking System built using modern web technologies. This ap
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -51,7 +51,7 @@ A full-stack Airline Booking System built using modern web technologies. This ap
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Airline-Booking-System/
@@ -71,7 +71,7 @@ Airline-Booking-System/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -100,14 +100,14 @@ npm run dev
 
 ---
 
-## 🔐 Authentication
+##  Authentication
 
 * Uses token-based authentication (JWT planned)
 * Role-based access (User / Admin)
 
 ---
 
-## 📊 ERD Overview
+##  ERD Overview
 
 Core Entities:
 
@@ -121,7 +121,7 @@ Core Entities:
 
 ---
 
-## 🧪 Future Improvements
+##  Future Improvements
 
 * Payment gateway integration (Stripe / PayMongo)
 * Email confirmation system
@@ -130,20 +130,20 @@ Core Entities:
 
 ---
 
-## 👥 Contributors
+##  Contributors
 
 * **Paulo Espinosa**
 * **Jackielyn Clavaton**
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational and portfolio purposes.
 
 ---
 
-## 💡 Notes
+##  Notes
 
 This project demonstrates:
 
